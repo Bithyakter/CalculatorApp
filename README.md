@@ -1,4 +1,4 @@
-<h2><b>Calculator</b></h2>
+<h1><b>Calculator App</b></h1>
 A simple Calculator app using .NET Windows form application
 <hr>
 <br>
